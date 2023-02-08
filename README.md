@@ -1,0 +1,2 @@
+# manalog
+Log Management Platform
